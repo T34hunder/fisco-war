@@ -1,0 +1,16 @@
+version="1"
+tags={
+	"Alternative History"
+	"Ideologies"
+	"Gameplay"
+	"Technologies"
+	"National Focuses"
+	"Map"
+}
+replace_path="map"
+replace_path="map\strategicregions"
+replace_path="localisation\english"
+replace_path="history\states"
+replace_path="common\bookmarks"
+name="Fiasco war '28"
+supported_version="1.13.5"

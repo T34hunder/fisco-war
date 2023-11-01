@@ -1,0 +1,20 @@
+state={
+	id=939
+	name="STATE_939"
+	provinces={
+		529 3512 6469 6570 9482 
+	}
+	history={
+		owner = GER
+		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+
+		}
+		add_core_of = GER	
+		}
+	manpower=105877
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
